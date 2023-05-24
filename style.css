@@ -42,6 +42,11 @@ body {
       transform: translateY(0);
     }
   }
+ .image-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
   
   .image-container img {
     width: 500px;
